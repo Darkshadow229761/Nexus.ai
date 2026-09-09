@@ -1,3 +1,4 @@
+```json
 {
   "name": "nexus.ai",
   "version": "1.0.0",
@@ -9,7 +10,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@google/genai": "^0.1.1",
+    "@google/genai": "^2.21.0",
     "clsx": "^2.1.0",
     "lucide-react": "0.577.0",
     "react": "19.2.8",
@@ -28,3 +29,4 @@
     "vite": "^8.0.0"
   }
 }
+```
